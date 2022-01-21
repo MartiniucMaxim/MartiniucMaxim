@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there , i'm Martiniuc Maxim and this is my official GitHub Page !!!!👋
 
-<!--
-**MartiniucMaxim/MartiniucMaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning ...Java, Web(HTML,CSS,JS) and SQL(MySQL, PostgreSQL).
+- 👯 I’m looking to collaborate on ...Java and Web-Techonology !!!
+- 🤔 I’m looking for help with ... Creating GUI Applications.
+- 💬 Ask me about ... Everything you want. I'm open for any conversation.
+- 📫 How to reach me: ... [LinkedIn Profile:](https://www.linkedin.com/in/martiniuc-maxim-816185185/)
+- ⚡ Fun fact: ... Like anime !!!
+
